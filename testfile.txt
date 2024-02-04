@@ -1,1 +1,4 @@
 Привіт Мех-мат!
+Hello world!
+for i in range(3):
+  print("hello!")
